@@ -1,1 +1,2 @@
 # NLP_Stock-Sentiment-Analysis
+Stock_news_data_collection.ipynb -> Preprocessed_Stock_News.ipynb -> Label_with_FinBert.ipynb -> Bert_sentiment_analysis_V3_Finbert_label -> sentiment_NVDA_test_data.ipynb -> finalEvaluation.ipynb
