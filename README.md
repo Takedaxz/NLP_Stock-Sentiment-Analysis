@@ -1,4 +1,4 @@
-#Stock News Sentiment Analysis
+# Stock News Sentiment Analysis
 
 This project analyzes and compares multiple stock trading strategies including news sentiment analysis using NLP models and traditional technical indicators (MACD, RSI, SMA, BB) against a Buy & Hold baseline.
 
